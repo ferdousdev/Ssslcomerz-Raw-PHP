@@ -83,8 +83,6 @@
 
 ### Contributors
 
->Prabal Mallick
+>Md Ferdous
 
-> Md. Rakibul Islam
-
-> integration@sslcommerz.com
+> probrainverb@gmail.com
